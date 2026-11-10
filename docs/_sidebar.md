@@ -1,5 +1,6 @@
 - **AIRM Documents**
-  - 🏠 [Home page](home.md)
+  - [Home page](home.md)
+
 
 - **AIRM Ontology**
   - [Overview](ontology/overview.md)
