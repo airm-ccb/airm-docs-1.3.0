@@ -42,13 +42,13 @@ Operations -- are constrained by --> Infrastructure
 | AIRM Subject | Ontology | Description |
 | :- | :- | :-------------------------- |
 | `Air Traffic Operations` | [Aerodrome Operations](ontology/aerodromeoperations.md) | Information about planning, execution and analysis of airport airside activities, including, but not limited to, how the aerodrome operators provide the needed ground infrastructure and precise surface guidance to improve safety and maximize aerodrome capacity in all weather conditions. |
-| `Air Traffic Operations` | [Airport Slot Management](ontology/airportslotmanagement.md) | ... |
-| `Air Traffic Operations` | [Deicing](ontology/deicing.md) | ... |
-| `Air Traffic Operations` | [Turnaround](ontology/turnaround.md) | ... |
+| `Air Traffic Operations` | [Airport Slot Management](ontology/airportslotmanagement.md) | Information on IATA managed airport slots as far as is required as baseline for network management processes. |
+| `Air Traffic Operations` | [Deicing](ontology/deicing.md) | De-icing operation on an aircraft that may consist of removal of snow, ice or frost from the aircraft (de-icing), and/or also application of chemicals that remain on a surface and continue to delay the reformation of ice up (anti-icing). |
+| `Air Traffic Operations` | [Turnaround](ontology/turnaround.md) | The arrival, unloading, and preparation for the return journey of an aircraft. |
 | `Air Traffic Operations` | [Airspace User Operations](ontology/airspaceuseroperations.md) | Information about the ATM-related aspect of flight operations. |
-| `Air Traffic Operations` | [Cargo Operations](ontology/cargooperations.md) | Information on all activities required to enable the safe transport of cargo by air. |
 | `Air Traffic Operations` | [ATM Phases](ontology/atmphases.md) | Information about groupings of related collaborative ATM activities relative to a flight or a group of flights. |
 | `Air Traffic Operations` | [ATM Service Delivery Management](ontology/atmservicedeliverymanagement.md) | Information about the balance and consolidation of the decisions of the various other processes/services, as well as the time horizon at which, and the conditions under which, these decisions are made. |
+| `Air Traffic Operations` | [Cargo Operations](ontology/cargooperations.md) | Information on all activities required to enable the safe transport of cargo by air. |
 | `Air Traffic Operations` | [Conflict Management](ontology/conflictmanagement.md) | Information about a) the strategic conflict management through airspace organization and management, the demand and capacity balancing, and traffic synchronization; b) separation provision; c) and collision avoidance. |
 | `Air Traffic Operations` | [Demand and Capacity Balancing](ontology/demandandcapacitybalancing.md) | Information about the strategic evaluation of the system-wide traffic flows and aerodrome capacities to allow airspace users to determine when, where and how they operate, while mitigating conflicting needs for airspace and aerodrome capacity. |
 | `Air Traffic Operations` | [Emergency Operations](ontology/emergencyoperations.md) | Information about the activities carried out in case of an emergency. |
@@ -56,7 +56,7 @@ Operations -- are constrained by --> Infrastructure
 | `Air Traffic Operations` | [Aeronautical Information Product](ontology/aeronauticalinformationproduct.md) |  |
 | `Air Traffic Operations` | [Flight Information Product](ontology/flightinformationproduct.md) |  |
 | `Air Traffic Operations` | [Meteorological Information Product](ontology/meteorologicalinformationproduct.md) |  |
-| `Air Traffic Operations` | [Military Operations](ontology/militaryoperations.md) | ... |
+| `Air Traffic Operations` | [Military Operations](ontology/militaryoperations.md) | Information about the coordination of flights between controllers. |
 | `Air Traffic Operations` | [Coordination](ontology/coordination.md) |  |
 
 ## Infrastructure
