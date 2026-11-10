@@ -4,7 +4,7 @@
 
 ![Image](.//media/airm_ontology_small.png)
 
-[**AIRM Ontology**](knowledge/overview.md)<br>All the knowledge from the AIRM Conceptual Model, classified by subjects.
+[**AIRM Ontology**](ontology/overview.md)<br>All the knowledge from the AIRM Conceptual Model, classified by subjects.
 
 ---
 
