@@ -1,10 +1,10 @@
 # AIRM 1.3.0 documents
 
-## [**AIRM Ontology**](ontology/overview.md)
+## **AIRM Ontology**
 
 ![Image](.//media/airm_ontology_small.png)
 
-All the knowledge from the AIRM Conceptual Model, classified by subjects.
+[**AIRM Ontology**](ontology/overview.md)<br>All the knowledge from the AIRM Conceptual Model, classified by subjects.
 
 ---
 
