@@ -53,11 +53,11 @@ Operations -- are constrained by --> Infrastructure
 | `Air Traffic Operations` | [Demand and Capacity Balancing](ontology/demandandcapacitybalancing.md) | Information about the strategic evaluation of the system-wide traffic flows and aerodrome capacities to allow airspace users to determine when, where and how they operate, while mitigating conflicting needs for airspace and aerodrome capacity. |
 | `Air Traffic Operations` | [Emergency Operations](ontology/emergencyoperations.md) | Information about the activities carried out in case of an emergency. |
 | `Air Traffic Operations` | [Information Services Products](ontology/informationservicesproducts.md) | Information about the products exchanged by information services. |
-| `Air Traffic Operations` | [Aeronautical Information Product](ontology/aeronauticalinformationproduct.md) |  |
-| `Air Traffic Operations` | [Flight Information Product](ontology/flightinformationproduct.md) |  |
-| `Air Traffic Operations` | [Meteorological Information Product](ontology/meteorologicalinformationproduct.md) |  |
-| `Air Traffic Operations` | [Military Operations](ontology/militaryoperations.md) | Information about the coordination of flights between controllers. |
-| `Air Traffic Operations` | [Coordination](ontology/coordination.md) |  |
+| `Air Traffic Operations` | [Aeronautical Information Product](ontology/aeronauticalinformationproduct.md) | Aeronautical data and aeronautical information provided either as digital data sets or as a standardized presentation in paper or electronic media. |
+| `Air Traffic Operations` | [Flight Information Product](ontology/flightinformationproduct.md) | Messages concerning the intended or actual movement of aircraft based on the latest information furnished to ATS units by the pilot, the operator or its designated representative, or derived from ATS surveillance systems. |
+| `Air Traffic Operations` | [Meteorological Information Product](ontology/meteorologicalinformationproduct.md) | Meteorological reports relating to existing or expected meteorological conditions. |
+| `Air Traffic Operations` | [Military Operations](ontology/militaryoperations.md) | Information about ATM-related air traffic operations conducted by military stakeholders. |
+| `Air Traffic Operations` | [Coordination](ontology/coordination.md) | Information about the coordination of flights between controllers. |
 
 ## Infrastructure
 
