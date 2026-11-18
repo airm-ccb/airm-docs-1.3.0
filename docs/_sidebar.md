@@ -3,49 +3,61 @@
 
 
 - **AIRM Ontology**
-  - [Overview](ontology/overview.md)
-  - [Flight](ontology/flight.md)
-  - [Flight Event](ontology/flightevent.md)
-  - [Flight Identifier](ontology/flightidentifier.md)
-  - [Flight Phase](ontology/flightphase.md)
-  - [Movement](ontology/movement.md)
-  - [Aerodrome Operations](ontology/aerodromeoperations.md)
-  - [Airport Slot Management](ontology/airportslotmanagement.md)
-  - [Deicing](ontology/deicing.md)
-  - [Turnaround](ontology/turnaround.md)
-  - [Airspace User Operations](ontology/airspaceuseroperations.md)
-  - [ATM Phases](ontology/atmphases.md)
-  - [ATM Service Delivery Management](ontology/atmservicedeliverymanagement.md)
-  - [Cargo Operations](ontology/cargooperations.md)
-  - [Conflict Management](ontology/conflictmanagement.md)
-  - [Demand and Capacity Balancing](ontology/demandandcapacitybalancing.md)
-  - [Emergency Operations](ontology/emergencyoperations.md)
-  - [Information Services Products](ontology/informationservicesproducts.md)
-  - [Aeronautical Information Product](ontology/aeronauticalinformationproduct.md)
-  - [Flight Information Product](ontology/flightinformationproduct.md)
-  - [Meteorological Information Product](ontology/meteorologicalinformationproduct.md)
-  - [Military Operations](ontology/militaryoperations.md)
-  - [Coordination](ontology/coordination.md)    
-  - [Aircraft](ontology/aircraft.md)
-  - [Airspace](ontology/airspace.md)
-  - [Infrastructure Point](ontology/infrastructurepoint.md)
-  - [Route and Procedure](ontology/routeandprocedure.md)
-  - [Aerodrome Infrastructure](ontology/aerodromeinfrastructure.md)
-  - [Communication Infrastructure](ontology/communicationinfrastructure.md)
-  - [Navigation Infrastructure](ontology/navigationinfrastructure.md)
-  - [Surveillance Infrastructure](ontology/surveillanceinfrastructure.md)  
-  - [Obstacle](ontology/obstacle.md)
-  - [Satellite System](ontology/satellitesystem.md)
-  - [Organisation, Role and Service ](ontology/organisationroleandservice.md)
-  - [Agent](ontology/agent.md)
-  - [Business Services](ontology/businessservices.md)
-  - [Document and Agreement](ontology/documentandagreement.md)
-  - [Organisation](ontology/organisation.md)
-  - [Role](ontology/role.md)
-  - [Geometry](ontology/geometry.md)
-  - [Geospatial](ontology/geospatial.md)
-  - [Temporal](ontology/temporal.md)
-  - [Meteorology](ontology/meteorology.md)
+  - [Overview](knowledge/overview.md)
+
+
+- **Traffic**
+  - [Flight](knowledge/flight.md)
+  - [Flight Event](knowledge/flight_event.md)
+  - [Flight Identifier](knowledge/flight_identifier.md)
+  - [Flight Phase](knowledge/flight_phase.md)
+  - [Movement](knowledge/movement.md)
+
+
+- **Operations**
+  - [Aerodrome Operations](knowledge/aerodrome_operations.md)
+  - [Aeronautical Information Product](knowledge/aeronautical_information_product.md)
+  - [Airspace User Operations](knowledge/airspace_user_operations.md)
+  - [ATM Phases](knowledge/atm_phases.md)
+  - [ATM Service Delivery Management](knowledge/atm_service_delivery_management.md)
+  - [Cargo Operations](knowledge/cargo_operations.md)
+  - [Conflict Management](knowledge/conflict_management.md)
+  - [Coordination](knowledge/coordination.md)    
+  - [Demand and Capacity Balancing](knowledge/demand_and_capacity_balancing.md)
+  - [Emergency Operations](knowledge/emergency_operations.md)
+  - [Flight Information Product](knowledge/flight_information_product.md)
+  - [Information Services Products](knowledge/information_services_products.md)
+  - [Meteorological Information Product](knowledge/meteorological_information_product.md)
+
+
+- **Infrastructure**
+  - [Aerodrome Infrastructure](knowledge/aerodrome_infrastructure.md)
+  - [Aircraft](knowledge/aircraft.md)
+  - [Airspace](knowledge/airspace.md)
+  - [Communication Infrastructure](knowledge/communication_infrastructure.md)
+  - [Infrastructure Point](knowledge/infrastructure_point.md)
+  - [Navigation Infrastructure](knowledge/navigation_infrastructure.md)
+  - [Obstacle Infrastructure](knowledge/obstacle.md)
+  - [Route and Procedure](knowledge/route_and_procedure.md)
+  - [Satellite System](knowledge/satellite_system.md)
+  - [Surveillance Infrastructure](knowledge/surveillance_infrastructure.md)  
+
+
+- **Stakeholders**
+  - [Agent](knowledge/agent.md)
+  - [Business Services](knowledge/business_services.md)
+  - [Document and Agreement](knowledge/document_and_agreement.md)
+  - [Organisation, Role and Service ](knowledge/organisation_role_and_service.md)
+  - [Organisation](knowledge/organisation.md)
+  - [Role](knowledge/role.md)
+
+
+- **Other**
+  - [Geometry](knowledge/geometry.md)
+  - [Geospatial](knowledge/geospatial.md)
+  - [Meteorology](knowledge/meteorology.md)
+  - [Temporal](knowledge/temporal.md)
+
 
 
 [(c) Eurocontrol](https://www.eurocontrol.int)
